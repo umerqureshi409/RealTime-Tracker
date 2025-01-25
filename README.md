@@ -17,13 +17,13 @@ Real-Time Location Tracker is a cutting-edge web application that allows you to 
 ## Getting Started
 To use the Real-Time Location Tracker, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/umerqureshi409/Real-Time-Tracker.git`
-2. Install dependencies: `cd Real-Rime-Tracker && npm install`
+1. Clone the repository: `git clone https://github.com/umerqureshi409/RealTime-Tracker.git`
+2. Install dependencies: `cd RealTime-Tracker && npm install`
 3. Start the development server: `npx nodemon app.js`
 4. Open your web browser and navigate to `http://localhost:3000`
 
 ## Contributions
-We welcome contributions from the community! If you find any issues or have ideas for new features, please feel free to submit a pull request or open an issue on the [GitHub repository](https://github.com/umerqureshi409/Real-Time-Tracker).
+We welcome contributions from the community! If you find any issues or have ideas for new features, please feel free to submit a pull request or open an issue on the [GitHub repository](https://github.com/umerqureshi409/RealTime-Tracker).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
